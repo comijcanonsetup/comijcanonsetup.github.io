@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Canon.com/ijsetup 
 
-You can use the [editor on GitHub](https://github.com/comijcanonsetup/comijcanonsetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+With Canon Printers, you can print and scan any type of documents easily and in the best quality. Download and install canon ij setup from its official website: **[canon.com/ijsetup](https://comijcanonsetup.github.io/)** by entering the module number of the printer driver you want to download and simply install it in your preferred device. Connect it with your network and you are good to go with canon printers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## How to Download canon.com/ijsetup?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**_Follow the given instruction download the setup file easily:_**
 
-```markdown
-Syntax highlighted code block
+1. Open a web browser and go to [canon.com/ijsetup](https://comijcanonsetup.github.io/).
+2. Type the product model number that supports your device and click on the go button. 
+3. Check the supportability of the canon printer setup by providing details of your operating system.
+4. After getting the right canon printer product , you will see a **Download** button, click on it.
+5. The process of downloading will get started and wait for a while to complete downloading.
+6. Now, the setup file is successfully downloaded
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+##  Install Canon Printer Software - Canon.com/ijsetup
 
-1. Numbered
-2. List
+**_Install the canon printer driver by following the mentioned below steps :_**
 
-**Bold** and _Italic_ and `Code` text
+1. Start by turning on your canon printer and operating device.
+2. Connect the printer to your Windows or Mac computer. 
+3. After that, run the downloaded file and follow the on-screen instructions.
+4. The wizard will now ask you to choose your connection type. Choose the desired alternative.
+5. Finally, you can complete the **[canon.com/ijsetup](https://comijcanonsetup.github.io/)** drivers and software installation.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+##  Setup Canon.com/ijsetup Wireless Printer 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/comijcanonsetup/comijcanonsetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**_Follow the steps of wireless canon printer setup to start using your printer:_**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. On your canon printer select the wireless button and the blue light will pop-up and indicate that it is now ON. 
+2. Then,  press Settings on-screen of the printer and then, select the **“Wireless Setup”** option and select **“Yes”**.
+3. Follow the instructions on the screen.
+4. The printer will detect the available networks of the router.
+5. Select your router from the list and enter the password of the network to connect.
+6. Follow the instructions and confirm the wireless network connection.
